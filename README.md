@@ -55,8 +55,8 @@ energy-sector-devops-in-a-box/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-org/energy-sector-devops-in-a-box.git
-cd energy-sector-devops-in-a-box
+git clone https://github.com/OlawaleLasisi/Energy-Devops-In-A-Box.git
+cd energy-devops-in-a-box
 ```
 
 ### 2. Bootstrap infrastructure across environments
