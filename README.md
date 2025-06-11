@@ -177,8 +177,7 @@ databricks jobs create --json-file ci-cd/databricks/job_config.json
 
 ## 📞 Support
 
-- DevOps Engineering Team: devops@yourcompany.com
-- Project Documentation: https://docs.yourcompany.com/devops-energy
-
+- DevOps Engineering Team: olawalelasisi@outlook.com
+- Project Documentation: https://confluence.com/devops-energy
 ---
 
